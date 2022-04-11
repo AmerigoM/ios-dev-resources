@@ -80,7 +80,7 @@ If you're developing something alone you might not have the resources for additi
 
 ### Icons
 
-- [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview) <br> Tons of icons from Apple free to use with your app. In most cases this set contains are all the icons you will ever need.
+- [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview) <br> Tons of icons from Apple free to use with your app. In most cases this set contains all the icons you will ever need.
 
 ### Legal
 
